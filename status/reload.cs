@@ -1,2 +1,3 @@
-#Está reiniciando
-#I'm alter this code now. Is this a code have a problem.
+#Estou editando
+var nome = "Lima";
+Console.WriteLine(nome +", prazer em conhece-lo.");
